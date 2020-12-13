@@ -1,0 +1,1 @@
+print("error: you need to pass in a python file to run")
